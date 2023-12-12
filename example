@@ -6,3 +6,8 @@ a+b;
 function add2() {
 a-b;
 }
+
+
+function add3() {
+a/b;
+}
