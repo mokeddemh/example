@@ -16,3 +16,8 @@ a/b;
 function add4() {
 a/b;
 }
+
+
+function add5() {
+a/b;
+}
